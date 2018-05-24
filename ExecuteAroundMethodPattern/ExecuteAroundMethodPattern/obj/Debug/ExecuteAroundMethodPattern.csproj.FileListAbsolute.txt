@@ -1,7 +1,0 @@
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\bin\Debug\ExecuteAroundMethodPattern.exe.config
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\bin\Debug\ExecuteAroundMethodPattern.exe
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\bin\Debug\ExecuteAroundMethodPattern.pdb
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\obj\Debug\ExecuteAroundMethodPattern.csprojAssemblyReference.cache
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\obj\Debug\ExecuteAroundMethodPattern.csproj.CoreCompileInputs.cache
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\obj\Debug\ExecuteAroundMethodPattern.exe
-c:\users\eden\source\repos\ExecuteAroundMethodPattern\ExecuteAroundMethodPattern\obj\Debug\ExecuteAroundMethodPattern.pdb
